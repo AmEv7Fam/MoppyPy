@@ -5,6 +5,7 @@
         <data xmlns="http://nbpython.dev.java.net/ns/php-project/1">
             <name>Moppypy</name>
             <sources>
+                <root id="src.MoppyPy.dir" name="Project Root"/>
                 <root id="src.dir"/>
             </sources>
             <tests/>
